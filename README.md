@@ -8,3 +8,4 @@ MNIST contains 70,000 images of handwritten digits: 60,000 for training and 10,0
 convolutional neural network 
 
 ## Model Evaluation 
+Test Accuracy of the model on the 10000 test images: 0.99%
